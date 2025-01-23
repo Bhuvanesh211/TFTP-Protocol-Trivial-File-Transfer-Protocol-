@@ -46,8 +46,6 @@ This implementation focuses on simplicity and user-friendliness, adhering to the
    - Runs until the user exits using `bye` or `quit`.  
    - Handles commands for connecting to the server, transferring files, and changing modes.  
 
----
 
-## Sample Output  
 
-### Server Running in Background  
+
